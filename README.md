@@ -82,16 +82,13 @@ Conclusion
 
 This project demonstrates the practical use of Natural Language Processing (NLP) and language translation technologies through a simple and interactive web application developed using Python and Streamlit.
 
-Screenshots
+## Screenshots
 
-Home Page
+### Home Page
+![Home Page](home_page.png)
 
-"Home Page" (screenshots/home_page.png)
+### Text Input
+![Text Input](input_text.png)
 
-Text Input
-
-"Text Input" (screenshots/input_text.png)
-
-Translation Output
-
-"Translation Output" (screenshots/translated_output.png)
+### Translation Output
+![Translation Output](translated_output.png)
